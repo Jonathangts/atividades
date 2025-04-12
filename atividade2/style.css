@@ -1,0 +1,50 @@
+#bodyIndex{
+    background-color: blue;
+    text-decoration: none;
+}
+
+#pIndex {
+    color: white;
+    text-decoration: none;
+}
+
+
+#tabelas{
+    background-color: aqua;
+    text-align: center;
+}
+#tabelas h1{
+    color: black;
+}
+
+#table{
+    margin: 10px;
+    padding: 10pt;
+}
+
+#Videos{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+p{
+    font: normal 15px Arial;
+    text-shadow: 5px 2px 5px white;
+}
+
+#aindex{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+#bodyImagens{
+    text-align: center;
+    background-color: blue;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
